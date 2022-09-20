@@ -191,3 +191,4 @@ import copy  
      
  # Method call for solving the puzzle    
  solve(initial, empty_tile_posi, final)   
+ 
