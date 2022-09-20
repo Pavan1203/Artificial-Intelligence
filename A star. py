@@ -60,3 +60,4 @@ class Graph():
    ] 
   
  g.dijkstra(0)
+ 
