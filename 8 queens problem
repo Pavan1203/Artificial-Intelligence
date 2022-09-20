@@ -34,3 +34,4 @@ print ("Enter the number of queens")
  N_queens(N) 
  for i in board: 
      print (i)
+ 
